@@ -13,9 +13,15 @@ Setup:
 
 
 Everytime you play:
+
 1 pull both repositories
 2 if log says someone is playing, be sad and eat icecream, then do something else
 3 if not post in log you are playing and update repository (log is in spore A, only update A here)
 4 play game
 5 when done post in log done playing
 6 update both repositories
+
+
+Guidlines/rules(feel free to add to if you think of something):
+
+1 only play on your own savegames(startplanets), unless you agreed to a shared game with someone
